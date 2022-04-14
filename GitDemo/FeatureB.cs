@@ -8,5 +8,6 @@ namespace GitDemo
 {
     internal class FeatureB
     {
+        // Implemented FeatureB
     }
 }
