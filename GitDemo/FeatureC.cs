@@ -9,5 +9,7 @@ namespace GitDemo
     internal class FeatureC
     {
         //Initialize FeatureC
+
+        //Working on FeatureC
     }
 }
