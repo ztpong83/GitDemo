@@ -9,5 +9,7 @@ namespace GitDemo
     internal class FeatureA
     {
         // Adding new feature : A
+
+        // bug fix for feature : A
     }
 }
